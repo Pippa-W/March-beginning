@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1904,
+    "id" : "https://Pippa-W.github.io/March-beginning/images/playbill/canvas/",
+    "label" : {
+      "none" : [ "playbill" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Pippa-W.github.io/March-beginning/images/playbill/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Pippa-W.github.io/March-beginning/images/playbill/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 60,
+              "height" : 27
+            }, {
+              "width" : 119,
+              "height" : 54
+            }, {
+              "width" : 238,
+              "height" : 108
+            }, {
+              "width" : 476,
+              "height" : 216
+            }, {
+              "width" : 952,
+              "height" : 432
+            }, {
+              "width" : 1904,
+              "height" : 864
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1904,
+            "@id" : "https://Pippa-W.github.io/March-beginning/images/playbill",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 864
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1904,
+          "id" : "https://Pippa-W.github.io/March-beginning/images/playbill/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 864
+        },
+        "target" : "https://Pippa-W.github.io/March-beginning/images/playbill/canvas/"
+      } ]
+    } ],
+    "height" : 864
+  }, {
+    "width" : 1904,
     "id" : "https://Pippa-W.github.io/March-beginning/images/EdinburghMapCrop/canvas/",
     "label" : {
       "none" : [ "EdinburghMapCrop" ]
