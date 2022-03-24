@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Pippa-W.github.io/March-beginning/annotations/bf42a250ecd849cde054e0d1384d5f5a.json" ],
+  "@id" : "https://Pippa-W.github.io/March-beginning/annotations/collection.json",
+  "label" : "All annotations loaded in Pippa-W/March-beginning project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
